@@ -2,6 +2,8 @@
 
 预览下载网址：https://git.io/vQPmB
 
+mega网盘下载：https://mega.nz/#F!SR51XDbC!hNYwbodRNIM7fGOqLDAOkQ
+
 2、2017年7月网门二维码（简约风格）（14张）
 
 预览下载长网址:https://git.io/vQinQ
@@ -13,6 +15,8 @@ mega网盘下载：https://mega.nz/#F!7J4QXYpA!FMU83cae5WWbb5NlWxKj7w
 预览下载网址：https://git.io/vQinQ
 
 mega网盘下载： https://mega.nz/#F!TYADFbjL!VoD0TMAu9H2Dgg5vlRdtDw
+
+注意mega网盘，手机必须提前安装，才能导入或下载。电脑，必须翻墙，才可以打开。
 
 <table>
   <tr>
