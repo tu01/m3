@@ -28,13 +28,13 @@ mega网盘下载： https://mega.nz/#F!TYADFbjL!VoD0TMAu9H2Dgg5vlRdtDw
       <td align=center><img src="https://raw.githubusercontent.com/tu2017/tu/master/xw4.jpg"/></td>
   </tr>
   <tr>
-      <td align=center><img src="https://raw.githubusercontent.com/tu2017/tu/master/xw5.jpg"/></td>
+      <td align=center><img src="https://raw.githubusercontent.com/tu2017/tu/master/xw5.png"/></td>
   </tr>
   <tr>
       <td align=center><img src="https://raw.githubusercontent.com/tu2017/tu/master/xw6.jpg"/></td>
   </tr>
   <tr>
-      <td align=center><img src="https://raw.githubusercontent.com/tu2017/tu/master/xw7.jpg"/></td>
+      <td align=center><img src="https://raw.githubusercontent.com/tu2017/tu/master/xw7.png"/></td>
   </tr>
   <tr>
       <td align=center><img src="https://raw.githubusercontent.com/tu2017/tu/master/xw8.jpg"/></td>
