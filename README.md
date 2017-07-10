@@ -19,7 +19,7 @@ mega网盘下载： https://mega.nz/#F!TYADFbjL!VoD0TMAu9H2Dgg5vlRdtDw
     <td align=center><img src="https://raw.githubusercontent.com/tu2017/tu/master/xw1.jpg" /></td>
   </tr>
   <tr>
-      <td align=center><img src="https://raw.githubusercontent.com/tu2017/tu/master/xw3.jpg"/></td>
+      <td align=center><img src="https://raw.githubusercontent.com/tu2017/tu/master/xw2.jpg"/></td>
   </tr>
   <tr>
     <td align=center><img src="https://raw.githubusercontent.com/tu2017/tu/master/xw3.jpg"/></td>
